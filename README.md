@@ -1,3 +1,3 @@
-This app was created with Base 44. 
+This app was created by Carl with Base 44. 
 
-Many updates and additions potentially in the future to add, happy checking!
+Link to current app: https://loop-chess-2000-736b7d0b.base44.app/
